@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+
+Sitemap: https://stalfasadprom.ru/sitemap.xml
